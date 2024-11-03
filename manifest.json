@@ -2,7 +2,7 @@
     {
         "name": "The Bird Ping Pong Ballizer",
         "description": "A useless Spicetify extension that turns all the images in the app into a Bird Ping Pong Ball.",
-        "preview": "./previews/preview.png",
+        "preview": "./previews/preview-.png",
         "main": "./dist/the-bird-pingpongballizer.js",
         "readme": "README.md",
         "authors": [
