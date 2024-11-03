@@ -1,0 +1,21 @@
+{
+  "name": "the-bird-pingpongballizer",
+  "version": "1.0.0", 
+  "private": false,
+  "author": "Spikerko",
+  "description": "A useless Spicetify extension that turns all the images in the app into a Bird Ping Pong Ball.",
+  "scripts": {
+    "build": "spicetify-creator",
+    "build-local": "spicetify-creator --out=dist --minify",
+    "watch": "spicetify-creator --watch --minify"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "spicetify-creator": "^1.0.17"
+  },
+  "dependencies": {
+    "spcr-settings": "^1.3.1"
+  }
+}
